@@ -1,5 +1,3 @@
-# 📧 AI Cold Email Generator
-
 This project helps you generate professional, personalized cold emails for job postings using LLMs (via Groq), LangChain, and your portfolio. Just paste a job link and upload your portfolio CSV — the app takes care of the rest.
 
 ---
@@ -18,7 +16,9 @@ This project helps you generate professional, personalized cold emails for job p
 ## 🛠️ Tech Stack
 
 - Python 3.10+
-- Streamlit
+- CSS
+- HTML
+- JavaScript
 - LangChain
 - Groq LLM
 - ChromaDB
@@ -28,6 +28,8 @@ This project helps you generate professional, personalized cold emails for job p
 ---
 
 ## 📂 Snap shot 
-<img width="657" height="983" alt="image" src="https://github.com/user-attachments/assets/b6b49946-b9fe-4ad9-a98d-97a2e98dc1f1" />
+<img width="1336" height="680" alt="image" src="https://github.com/user-attachments/assets/4b40ab2e-bfb6-4031-aacf-3f0dacfcf910" />
+
+<img width="300" height="826" alt="image" src="https://github.com/user-attachments/assets/e9f8e60c-bdad-4008-8807-ce0e5183215c" />
 
 
